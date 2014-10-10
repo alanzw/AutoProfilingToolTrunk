@@ -1,0 +1,17 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Information>
+    <GameName>Trine</GameName>
+    <GameDirectory>F:\TestDemo\Games\Trine</GameDirectory>
+    <SaveResultDirectory>F:\TestDemo\AllResultSets</SaveResultDirectory>
+    <SingleSetFileName>Trine.single.set</SingleSetFileName>
+    <UseDll>HookD3DAll.dll</UseDll>
+  </Information>
+  <Information>
+    <GameName>DemoUnity</GameName>
+    <GameDirectory>F:\TestDemo\Games\4-0_AngryBots</GameDirectory>
+    <SaveResultDirectory>F:\TestDemo\AllResultSets</SaveResultDirectory>
+    <SingleSetFileName>DemoUnity.single.set</SingleSetFileName>
+    <UseDll>HookD3DAll.dll</UseDll>
+  </Information>
+</NewDataSet>
